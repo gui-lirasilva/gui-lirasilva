@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Guilherme Henrique</h1>
-<h3 align="center">I am a student of software development, studying the Bachelor of Information Systems. And I seek to demonstrate the results of my continuous learning.</h3>
+<h1 align="left">Hi 👋, I'm Guilherme Henrique</h1>
+<h3 align="left">I am a student of software development, studying the Bachelor of Information Systems. And I seek to demonstrate the results of my continuous learning.</h3>
 
 - 🌱 I’m currently learning **Java, Spring-Boot, relational databases and code versioning.**
 
