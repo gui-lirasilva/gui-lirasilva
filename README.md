@@ -2,7 +2,7 @@
 <h3 align="left">I am a student of software development, studying the Bachelor of Information Systems. And I seek to
     demonstrate the results of my continuous learning.</h3>
 
-- :man_technologist: I’m currently learning **Java, Spring-Boot, relational databases and code versioning.**
+- :man_technologist: I’m currently learning **Java, Spring, relational databases and code versioning.**
 
 - 💬 Ask me about **Programming logic, OOP, Java**
 
