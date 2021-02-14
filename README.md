@@ -27,8 +27,8 @@
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilira-dev&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="guilira-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilira-dev&show_icons=true&locale=en&layout=compact&theme=" alt="guilira-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilira-dev&show_icons=true&theme=gruvbox&locale=en" alt="guilira-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilira-dev&show_icons=true&theme=&locale=en" alt="guilira-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilira-dev&theme=gruvbox" alt="guilira-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilira-dev&theme=" alt="guilira-dev" /></p>
