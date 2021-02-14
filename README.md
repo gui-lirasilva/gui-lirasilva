@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Programming logic, OOP, Java**
 
-- 📫 How to reach me **gui_lirasilva@outlook.com**
+- 📫 How to reach me: **gui_lirasilva@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +43,7 @@
             width="40" height="40" /> </a>
 </p>
 
-<h3 align="left">SO:</h3>
+<h3 align="left">OS:</h3>
 <p align="left">
     <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
          <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
