@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Guilherme Henrique</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Guilherme Henrique</h1>
 <h3 align="left">I am a student of software development, studying the Bachelor of Information Systems. And I seek to
     demonstrate the results of my continuous learning.</h3>
 
@@ -41,6 +41,16 @@
     <a href="https://www.linux.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a>
+</p>
+
+<h3 align="left">SO:</h3>
+<p align="left">
+    <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
+         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+                        alt="windows" width="100" height="30" /> </a>
+    <a href="https://ubuntu.com/" target="_blank">
+                <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+                        alt="ubuntu" width="100" height="30" /> </a>
 </p>
 
 <p><img align="left"
