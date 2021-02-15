@@ -57,7 +57,7 @@
 
 <h3 align="left">Statistics:</h3>
 <p align="left">
-<p><img align="left"
+<p><img align="center"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=guilira-dev&show_icons=true&locale=en&layout=compact&theme="
                 alt="guilira-dev" /></p>
 
