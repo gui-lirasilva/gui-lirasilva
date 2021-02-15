@@ -11,7 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-        <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="gui-lira"><a class="LI-simple-link" href='https://br.linkedin.com/in/gui-lira?trk=profile-badge'>Guilherme Henrique de Lira Silva</a></div>
+        <a href="https://www.linkedin.com/in/gui-lira" target="blank"><img align="center"
+                        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+                        alt="https://www.linkedin.com/in/gui-lira" height="30" width="110" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
