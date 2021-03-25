@@ -61,7 +61,3 @@
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiLira-Dev&hide=contribs,prs&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiLira-Dev&hide=)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilira-dev&theme="
-                alt="guilira-dev" /></p>
-</p>
