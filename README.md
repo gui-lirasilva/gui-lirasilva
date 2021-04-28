@@ -58,6 +58,7 @@
 <h3 align="left">Statistics:</h3>
 <p align="left">
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiLira-Dev&hide=contribs,prs&show_icons=true&theme=nord)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiLira-Dev&hide=contribs,prs&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiLira-Dev&hide=&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiLira-Dev&hide=&theme=nord)
+</p>
