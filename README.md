@@ -2,12 +2,15 @@
         Henrique</h1>
 <h3 align="center">I am a student of software development, studying the Bachelor of Information Systems. And I seek to
         demonstrate the results of my continuous learning.</h3>
-
+<p align="center">
 - :man_technologist: I’m currently learning **Java, Spring, relational databases and code versioning.**
-
+</p>
+<p align="center">
 - 💬 Ask me about **Programming logic, OOP, Java**
-
+</p> 
+<p align="center">
 - 📫 How to reach me: **gui_lirasilva@outlook.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -19,7 +22,7 @@
 <h3 align="center">Languages:</h3>
 <p align="center">
          <a href="https://www.oracle.com/java/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
                         alt="java" width="40" height="40" /> </a>
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
