@@ -2,14 +2,12 @@
         Henrique</h1>
 <h3 align="center">I am a student of software development, studying the Bachelor of Information Systems. And I seek to
         demonstrate the results of my continuous learning.</h3>
-<p align="center">
-- :man_technologist: I’m currently learning **Java, Spring, relational databases and code versioning.**
-</p>
-<p align="center">
+<p align="center">        
+- 👨🏻‍💻 I’m currently learning **Java, Spring, relational databases and code versioning.**
+
 - 💬 Ask me about **Programming logic, OOP, Java**
-</p> 
-<p align="center">
-- 📫 How to reach me: **gui_lirasilva@outlook.com**
+
+- 📫 How to reach me: gui_lirasilva@outlook.com
 </p>
 
 <h3 align="center">Connect with me:</h3>
