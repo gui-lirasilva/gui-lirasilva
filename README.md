@@ -61,6 +61,7 @@
 <a href="https://github.com/guiLira-Dev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guiLira-Dev&hide=contribs,prs&show_icons=true&theme=react" />
 </a>
+<br>
 <a href="https://github.com/guiLira-Dev/top-langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiLira-Dev&layout=compact&hide=&theme=react" />
 </a>
