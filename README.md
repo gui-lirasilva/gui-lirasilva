@@ -59,11 +59,11 @@
 <h3 align="center">Statistics:</h3>
 
 <p align="center">
-        <a href="https://github.com/guiLira-Dev/github-readme-stats">
-                <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=guiLira-Dev&hide=contribs,prs&show_icons=true&theme=react" />
+        <a href="https://github.com/gui-lirasilva/github-readme-stats">
+                <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=gui-lirasilva-Dev&hide=contribs,prs&show_icons=true&theme=react" />
         </a>
         <br>
-        <a href="https://github.com/guiLira-Dev/top-langs">
-                <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiLira-Dev&layout=compact&hide=&theme=react" />
+        <a href="https://github.com/gui-lirasilva/top-langs">
+                <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-lirasilva&layout=compact&hide=&theme=react" />
         </a>
 </p>
