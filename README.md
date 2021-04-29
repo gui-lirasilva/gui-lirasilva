@@ -60,7 +60,7 @@
 
 <p align="center">
         <a href="https://github.com/gui-lirasilva/github-readme-stats">
-                <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=gui-lirasilva-Dev&hide=contribs,prs&show_icons=true&theme=react" />
+                <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=gui-lirasilva&hide=contribs,prs&show_icons=true&theme=react" />
         </a>
         <br>
         <a href="https://github.com/gui-lirasilva/top-langs">
