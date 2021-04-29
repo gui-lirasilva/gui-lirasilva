@@ -63,7 +63,6 @@
                 <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=guiLira-Dev&hide=contribs,prs&show_icons=true&theme=react" />
         </a>
         <br>
-        <br>
         <a href="https://github.com/guiLira-Dev/top-langs">
                 <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiLira-Dev&layout=compact&hide=&theme=react" />
         </a>
