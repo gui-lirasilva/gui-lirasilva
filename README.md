@@ -22,9 +22,6 @@
          <a href="https://www.oracle.com/java/" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
                         alt="java" width="40" height="40" /> </a>
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                        alt="csharp" width="40" height="40" /> </a>
         <a href="https://www.w3schools.com/css/" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                         alt="css3" width="40" height="40" /> </a>
