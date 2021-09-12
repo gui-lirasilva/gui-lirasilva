@@ -15,7 +15,7 @@
 
 <h3 align="center">Statistics:</h3>
 
-<div>
+<div align="center">
   <a href="https://github.com/camilafernanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-lirasilva&layout=compact&langs_count=7&theme=react"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-lirasilva&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
