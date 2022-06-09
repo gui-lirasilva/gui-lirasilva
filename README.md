@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Guilherme
+<h1 align="center">Hi, I'm Guilherme
         Henrique</h1>
 <h3 align="center">I am a student of software development, studying the Bachelor of Information Systems. And I seek to
         demonstrate the results of my continuous learning.</h3>   
