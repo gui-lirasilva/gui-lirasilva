@@ -3,7 +3,7 @@
 <h3 align="center">I am a student of software development, studying the Bachelor of Information Systems. And I seek to
         demonstrate the results of my continuous learning.</h3>   
         
-#### 👨🏻‍💻 I’m currently learning: ``Java web`` ``Spring`` ``relational databases`` ``code versioning``
+#### 👨🏻‍💻 I’m currently learning: ``Java web`` ``Spring`` ``relational databases`` ``microservices``
 #### 💬 Ask me about: ``Programming`` ``logic`` ``OOP`` ``Java``
 
 
