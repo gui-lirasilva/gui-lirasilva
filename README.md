@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Guilherme
         Henrique</h1>
-<h3 align="center">I am a student of software development, studying the Bachelor of Information Systems. And I seek to
-        demonstrate the results of my continuous learning.</h3>   
+<h3 align="center">I am a software developer and student of Bachelor of Information Systems </h3>   
         
-#### 👨🏻‍💻 I’m currently learning: ``Java web`` ``Spring`` ``relational databases`` ``microservices``
-#### 💬 Ask me about: ``Programming`` ``logic`` ``OOP`` ``Java``
+#### 👨🏻‍💻 I’m currently learning: ``Java web`` ``Spring boot`` ``relational databases`` ``Microservices``
+#### 💬 Ask me about: ``Programming`` ``logic`` ``OOP`` ``Java`` ``JPA`` ``MySQL``
 
 
 <h3 align="center">Connect with me:</h3>
