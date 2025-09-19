@@ -2,7 +2,7 @@
         Henrique</h1>
 <h3 align="center">I am a software developer and student of Bachelor of Information Systems </h3>   
         
-#### 👨🏻‍💻 I’m currently learning: ``Java web`` ``Spring boot`` ``relational databases`` ``Microservices``
+#### 👨🏻‍💻 I’m currently learning: ``SOLID`` ``Software Architecture`` ``RabbitMQ`` ``Microservices`` ``Cloud``
 #### 💬 Ask me about: ``Programming`` ``logic`` ``OOP`` ``Java`` ``JPA`` ``MySQL``
 
 
